@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [TicTacToe](https://github.com/CoderBDK/TicTacToe)
+- 🔭 I’m currently working on [TicTacToe](https://github.com/CoderBDK/BudgetBuddy)
 - 🌱 I’m currently learning from [Android App Development](https://developer.android.com/)
 - 💬 Ask me about **App developement**
 - 📫 How to reach me [Messenger](https://m.me/md.abdullah021)
